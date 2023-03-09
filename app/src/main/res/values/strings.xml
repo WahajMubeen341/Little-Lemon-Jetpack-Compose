@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Little Lemon</string>
     <string name="title">Little Lemon</string>
+    <string name="city">Chicago</string>
+    <string name="add">Add item</string>
+    <string name="little">Little</string>
+    <string name="lemon">Lemon</string>
+    <string name="description">This is a little lemon logo</string>
 </resources>
